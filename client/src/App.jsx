@@ -104,7 +104,7 @@ function Navbar() {
           ))}
           <li>
             <a
-              href="./Guhan - Resume.pdf"
+              href="./Guhan Vijayakumar.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="navbar__resume-btn"
@@ -162,7 +162,7 @@ function Hero() {
           <a href="#contact" onClick={(e) => { e.preventDefault(); document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' }); }} className="btn btn--primary">
             Get In Touch
           </a>
-          <a href="./Guhan - Resume.pdf" target="_blank" rel="noopener noreferrer" className="btn btn--outline">
+          <a href="./Guhan Vijayakumar.pdf" target="_blank" rel="noopener noreferrer" className="btn btn--outline">
             <i className="fas fa-download"></i> Resume
           </a>
         </div>

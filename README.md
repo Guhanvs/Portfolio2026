@@ -26,7 +26,7 @@ PortFolio/
 │   ├── package.json         # Dependencies & scripts
 │   ├── public/
 │   │   ├── client-package.json
-│   │   ├── Guhan - Resume.pdf
+│   │   ├── Guhan Vijayakumar.pdf
 │   │   └── assets/          # Images, project screenshots & certificates
 │   └── src/
 │       ├── App.jsx          # Portfolio components & sections
